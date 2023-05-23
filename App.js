@@ -1,20 +1,25 @@
+import React, { useEffect, useState } from 'react';
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
-
+import HomeStack from './routes/HomeStack';
+import { loadFonts } from './expo-fonts';
+import 'expo-dev-client'
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
-}
+  const [fontsLoaded, setFontsLoaded] = useState(false);
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+  useEffect(() => {
+    async function load() {
+      await loadFonts();
+      setFontsLoaded(true);
+    }
+    load();
+  }, []);
+  
+
+  return (
+    <>
+      <StatusBar hidden />
+      {fontsLoaded && <HomeStack/>}
+    </>
+  );
+  
+}
