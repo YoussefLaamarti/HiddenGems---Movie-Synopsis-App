@@ -30,10 +30,10 @@ To get started with HiddenGems, follow these steps:
 3. Browse through movie synopses, unlock to reveal movie titles, and enjoy your cinematic journey.
 
 ## Screenshots
-<img src="https://github.com/YoussefLaamarti/MovieAppWithADS/assets/88171482/75c652d5-764d-4e59-8f56-ef359186b282" width="300" />
-<img src="https://github.com/YoussefLaamarti/MovieAppWithADS/assets/88171482/57e72839-7e19-4c21-ba62-8fe7fb6cdc6a" width="300" />
-<img src="https://github.com/YoussefLaamarti/MovieAppWithADS/assets/88171482/adeeda21-81b1-4b85-ae55-19519a3afe26" width="300" />
-<img src="https://github.com/YoussefLaamarti/MovieAppWithADS/assets/88171482/a485d1ef-367c-4127-b8be-56b46c7a1ea3" width="300" />
+<img src="https://github.com/YoussefLaamarti/HiddenGems---Movie-Synopsis-App/assets/88171482/f2c074f4-cb82-406f-a89c-4fa7ff8b32c5" width="300" />
+<img src="https://github.com/YoussefLaamarti/HiddenGems---Movie-Synopsis-App/assets/88171482/4f5d84d7-d896-4552-96eb-827a099b3379" width="300" />
+<img src="https://github.com/YoussefLaamarti/HiddenGems---Movie-Synopsis-App/assets/88171482/1df44db2-da36-4e74-befc-be68601a63cd" width="300" />
+<img src="https://github.com/YoussefLaamarti/HiddenGems---Movie-Synopsis-App/assets/88171482/c00ed155-ed8f-4ec1-9c7e-168c2a1dbaf5" width="300" />
 
 
 
