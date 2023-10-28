@@ -1,5 +1,6 @@
 # HiddenGems - Movie Synopsis App
-![unnamed](https://github.com/YoussefLaamarti/MovieAppWithADS/assets/88171482/e44ba80c-a9db-42b0-b993-de720950428a)
+![unnamed](https://github.com/YoussefLaamarti/HiddenGems---Movie-Synopsis-App/assets/88171482/fa77b062-45c1-4234-b706-d99532012a85)
+
 
 
 HiddenGems is an engaging and intuitive mobile application designed to make your movie discovery experience seamless and enjoyable. Explore captivating movie synopses and unlock the hidden gems within the world of cinema.
