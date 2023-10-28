@@ -17,10 +17,10 @@ HiddenGems is an engaging and intuitive mobile application designed to make your
 HiddenGems is the ultimate movie synopsis app, offering a unique way to discover films. This app provides a vast collection of movie synopses, allowing you to dive into the world of cinema and explore hidden treasures. If a synopsis piques your interest, you can unlock it to reveal the movie title. If not, simply skip to the next one.
 
 ## Features
-- **Extensive Synopsis Collection:** Delve into an ever-growing library of movie synopses, covering a wide range of genres.
-- **Discover Hidden Treasures:** Specializes in uncovering underrated cinematic wonders, providing you with unique recommendations.
-- **Intuitive Interface:** Enjoy a user-friendly browsing experience with a seamlessly designed app interface.
-- **Stay Updated:** Stay informed about the latest movie releases and trends.
+- **Explore Stories:** Dive into a library of stories about movies, just like reading a book summary.
+- **Find Hidden Gems:** Discover special, lesser-known movie treasures that are like secret stories.
+- **Easy to Use: The app** is super simple to use, like a fun game. Just tap if you like a story or skip to the next.
+- **Stay in the Know:** Get the latest movie stories to read, like the latest chapter in your favorite book.
 
 ## Getting Started
 To get started with HiddenGems, follow these steps:
